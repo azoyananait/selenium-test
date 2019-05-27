@@ -1,2 +1,2 @@
 # selenium-test
-Selenium course 
+Selenium course test
